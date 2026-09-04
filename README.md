@@ -194,7 +194,7 @@ http://localhost/toob_sudan/
 
 ## 👨‍💻 المطور
 
-**Awab Wdbashry**
+**Awab Bashary | AwabBuilds**
 
 **Information Technology Developer**
 
@@ -395,7 +395,7 @@ Potential future improvements include:
 
 ## 👨‍💻 Developer
 
-**Awab Wdbashry**
+**Awab Bashary | AwabBuilds**
 
 **Information Technology Developer**
 
