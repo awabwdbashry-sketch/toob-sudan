@@ -1,0 +1,19 @@
+# Database / local configuration
+includes/db.php
+
+# Admin setup script
+create_admin.php
+
+# Local/server files
+.env
+.env.*
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary / backup files
+*.tmp
+*.bak
+*.backup
